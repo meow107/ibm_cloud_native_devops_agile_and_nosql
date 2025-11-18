@@ -1,6 +1,6 @@
 apiVersion: tekton.dev/v1beta1
 kind: Pipeline
-metadata:  
+metadata:
   name: hello-pipeline
 spec:
   tasks:
